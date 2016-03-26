@@ -1,0 +1,22 @@
+{
+  "name": "sockets",
+  "description": "",
+  "main": "",
+  "authors": [
+    "mmloveaa <mandychan1128@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2"
+  }
+}
